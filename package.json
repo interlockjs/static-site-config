@@ -24,7 +24,7 @@
   "dependencies": {
     "autoprefixer": "^6.4.1",
     "glob": "^7.0.6",
-    "interlock-babili": "^0.1.0",
+    "interlock-babili": "^0.2.0",
     "interlock-css": "^0.1.0",
     "interlock-html": "^0.1.1",
     "interlock-pug": "^0.1.0",
